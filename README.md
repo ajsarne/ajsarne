@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajsarne, a Software Development student.
+- 👋 Hi, I’m @ajsarne, a Software Development graduate.
 - 👀 I’m interested in web, visual, and ux/ui design.
 - 🌱 I’m currently learning python and react.
 <!--- 📫 Reach me via email --->
